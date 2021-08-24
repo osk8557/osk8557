@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osk8557
+- 👋 Hi, I’m Omkar Khanvilkar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML & DL
 - 💞️ I’m looking to collaborate on ML projects
